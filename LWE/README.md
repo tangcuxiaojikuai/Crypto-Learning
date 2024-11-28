@@ -1,12 +1,3 @@
----
-title: LWE
-categories: crypto-learning
-mathjax: true
-abbrlink: 758dd33a
-date: 2024-02-21 14:02:04
-tags:
----
-
 这篇文章是由VNCTF的"crypto_sign_in_5"一题有感而发，在简单学习了一下Dual attack和primal attack的思路之后，觉得确实很有记录的价值，决定新开一个"crypto-learning"类别，来记录一下学习密码的过程中碰到的各种比较有意思的知识点和技巧，就有点类似于学习笔记吧。
 
 这些文章里提及的概念大多并不会特别详细、准确，因为更详细、准确的概念可以在网上很多博客、参考文献等找到，因此文章里面只会挑我觉得重要一些的来记录。
