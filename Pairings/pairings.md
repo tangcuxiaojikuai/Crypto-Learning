@@ -1,13 +1,3 @@
----
-title: pairings
-categories: crypto-learning
-mathjax: true
-typora-root-url: pairings
-abbrlink: af8d67d0
-date: 2024-05-13 14:46:12
-tags:
----
-
 前段时间跟着Pairings For Beginners这篇简单学习了一下pairings，现在觉得还是有必要自己做点记录，不然一些细节实在是容易忘记。
 
 <!--more-->

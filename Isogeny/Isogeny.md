@@ -1,13 +1,3 @@
----
-title: Isogeny
-categories: crypto-learning
-mathjax: true
-typora-root-url: Isogeny
-abbrlink: e06139e7
-date: 2024-02-29 09:21:45
-tags:
----
-
 在今年N1CTF junior之后越发觉得还是很有必要学习一下同源，至少了解一些它的概念和性质。于是就跟着hashhash师傅给的一篇论文学了学，在这里用文字记录下来。
 
 我会尽量用好懂一点的语言来阐述我的理解，因为本质上仅仅是入个门。如果有不准确的、错误的地方欢迎各位师傅指出。
